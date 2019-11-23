@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  background-color: #b39090;
+  display: flex;
+  width: 1000px;
+  min-height: 330px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.info {
+  background-color: #c9c9c9;
+  padding: 10px;
+  margin: 15px;
+  border: #000 1px solid;
+}
